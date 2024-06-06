@@ -1,3 +1,3 @@
-const scripts = require('./CommonJsModule')
+const  CommonJs= require('./CommonJsModule')
 
 CommonJs();
